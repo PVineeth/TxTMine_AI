@@ -1,0 +1,7 @@
+#Ignore Folders
+.ipynb_checkpoints
+venv/
+PDFs/
+
+#Ignore Files
+.DS_Store
