@@ -2,6 +2,7 @@
 .ipynb_checkpoints
 venv/
 PDFs/
+modules/__pycache__/
 
 #Ignore Files
 .DS_Store
